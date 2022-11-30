@@ -40,6 +40,3 @@ export const deleteContact = createAsyncThunk(
   }
 );
 
-//    .filter(contact =>
-//       contact.name.toLowerCase().includes(filters.toLowerCase())
-// )
